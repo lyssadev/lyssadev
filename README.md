@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @lyssadev
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=435&lines=I’m+interested+in+Technology;I’m+currently+learning+lua+scripting;Pronouns:+She%2FHer;Fun+fact: I've seen more sunrises from staying up late than from waking up early. The moon is my constant companion." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=435&lines=I’m+interested+in+Technology;I’m+currently+learning+lua+scripting;Pronouns:+She/Her;Fun+fact:+I've+seen+more+sunrises+from+staying+up+late+than+from+waking+up+early.+The+moon+is+my+constant+companion." alt="Typing SVG" />
 </div>
 
 <!---
