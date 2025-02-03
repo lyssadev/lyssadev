@@ -132,7 +132,7 @@ hobbies: ["Gaming", "Coding", "Reading", "Open Source"]
 
 ## 🎯 Current Goals
 ```javascript
-const goals2024 = {
+const goals2025 = {
   learn: ['Advanced System Design', 'Cloud Architecture', 'AI/ML'],
   create: ['Open Source Projects', 'Tech Blog', 'Developer Community'],
   contribute: ['Open Source', 'Tech Talks', 'Mentoring'],
