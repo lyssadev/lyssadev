@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/lyssa_exe" target="blank"><img src="https://img.shields.io/twitter/follow/lyssa_exe?logo=twitter&style=for-the-badge" alt="lyssa_exe" /></a> </p>
 
-- 💬 Ask me about **C++, C#, C, Dart, Swift, Kotlin, Java**
+- 💬 Ask me about **Go, C++, C#, C, Dart, Swift, Kotlin, Java**
 
 - 📫 How to reach me **toolsplus1000@gmail.com**
 
