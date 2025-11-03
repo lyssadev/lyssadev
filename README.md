@@ -8,7 +8,7 @@
 <p>📫 How to reach me: <strong><a href="mailto:toolsplus1000@gmail.com">toolsplus1000@gmail.com</a></strong></p>
 </li>
 <li>
-<p>⚡ What I like to do: <strong>I like so much reading, basketball and skateboarding…and coding of course</strong></p>
+<p>⚡ What I like to do: <strong>I like so much reading about coding course,math and science</strong></p>
 </li>
 </ul>
 <h3 align="center">Languages and Tools:</h3>
@@ -33,7 +33,15 @@
   </a>
 </p>
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=lyssadev&amp;theme=react&amp;show_icons=true&amp;include_all_commits=true">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyssadev&amp;theme=react&amp;layout=compact">
+  <a href="https://git.io/awesome-stats-card">
+    <img height="180" src="https://awesome-github-stats.azurewebsites.net/user-stats/lyssadev?cardType=level&theme=react&show_icons=true">
+  </a>
+</p>
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=lyssadev&theme=react&show_icons=true&include_all_commits=true&count_private=true">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyssadev&theme=react&layout=compact&langs_count=8">
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lyssadev&theme=react">
 </p>
 <hr>
